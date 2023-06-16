@@ -1,0 +1,94 @@
+section {
+     height: 100vh;
+     background-color: aqua;
+}
+
+body {
+     background-color: red;
+     margin: 0rem;
+     padding: 0rem;
+}
+
+footer {
+     height: 5rem;
+     background-color: yellowgreen;
+}
+
+header {
+     background-color: yellow;
+}
+
+ul {
+     display: flex;
+     justify-content: center;
+}
+
+li {
+     background-color: white;
+     margin: 1rem;
+     padding-left: 2rem;
+     padding-right: 2rem;
+     padding-top: 1rem;
+     padding-bottom: 1rem;
+     border-radius: 0.5rem;
+}
+
+/* ul > .active { */
+/* ul>.active {
+     background-color: blue;
+     color: white;
+} */
+
+#home {
+     background-color: red;
+     color: white;
+}
+
+#about {
+     background-color: orange;
+     color: white;
+}
+
+#garri {
+     background-color: green;
+     color: white;
+}
+
+#services {
+     background-color: blue;
+     color: white;
+}
+
+#gallery {
+     background-color: indigo;
+     color: white;
+}
+
+#contact {
+     background-color: violet;
+     color: white;
+}
+
+#section1 {
+     background-color: red;
+}
+
+#section2 {
+     background-color: orange;
+}
+
+#section3 {
+     background-color: yellow;
+}
+
+#section4 {
+     background-color: green;
+}
+
+#section5 {
+     background-color: blue;
+}
+
+#section6 {
+     background-color: indigo;
+}
